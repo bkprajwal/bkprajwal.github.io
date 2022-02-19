@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(214, 255, 253);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+p{
+    color:purple;
+    border-width:1px;
+    border: solid;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+}
+h3{ 
+    text-align:center;
+}
+
+div{
+    /*This is to resize the window */
+    
+    Margin: auto;
+    text-align: left;
+}
+#introPara {
+    font-family: Impact,
+    font-size: 40pt;
+}
+
+.principle {
+    text-align:left;
+}
+.principle:hover {
+    font-size: 15pt;
+    color: blue;
+}
+    .goto {
+        text-decoration-color: beige;
+        text-align: calc();
+        font-size: 20pts;
+    
+
+    } 
+}
